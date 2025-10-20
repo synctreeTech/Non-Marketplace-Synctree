@@ -65,25 +65,10 @@ The tasks described in this document should only be performed during the install
 Move to CloudFormation page and press Create stack button.
 ![create_stack](https://user-images.githubusercontent.com/103020388/190582150-a23f674a-62aa-4af2-a4ff-02f131f1ca3b.png)
 
-<br>
-
-The template should be selected according to the number of Availability Zone(AZ) in your region.
 
 <br>
 
-Option. 1) If you can use three Availability Zone(AZ) in your region, copy and use template below.
-```
-https://synctree-marketplace.s3.amazonaws.com/synctree-marketplace.yaml
-```
-![specify_template](https://user-images.githubusercontent.com/103020388/190582234-b69c8c89-9eb6-460f-a6ad-da8a828f472e.png)
-
-<br>
-
-Option. 2) If you can use two Availability Zone(AZ) in your region, copy and use template below.
-```
-https://synctree-marketplace.s3.amazonaws.com/synctree-marketplace-2az.yaml
-```
-![image](https://user-images.githubusercontent.com/103020388/205840392-4780de4b-64e4-42f4-860c-1f9755aa0cc9.png)
+Option. 1) upload provided template.
 
 <br>
 
