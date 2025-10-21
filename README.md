@@ -68,7 +68,8 @@ Move to CloudFormation page and press Create stack button.
 
 <br>
 
-Option. 1) upload provided template.
+upload provided template.
+![upload_cft](https://raw.githubusercontent.com/synctreeTech/asset/main/upload_cft.png)
 
 <br>
 
@@ -84,10 +85,16 @@ Press next button at the bottom.
 
 <br>
 
+You can optionally add tag.
+![add_tag](https://raw.githubusercontent.com/synctreeTech/asset/main/add_tag.png)
+
+<br>
+
 Press next button.
 ![advanced_option](https://user-images.githubusercontent.com/103020388/190586172-2103f5aa-d790-425c-8b59-669ec481599a.png)
 
 <br>
+
 
 Check the check box and press Create stack button.
 ![create_stack_2](https://user-images.githubusercontent.com/103020388/190582496-11ece7db-9e51-47fb-b59d-da751b3a1d18.png)
