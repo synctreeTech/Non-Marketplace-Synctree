@@ -1035,6 +1035,13 @@ aws-load-balancer-controller-5f7cb8b897-wbtz8   1/1     Running   0          9s
 
 <br>
 
+Run the command below to create namespace.
+```
+kubectl create namespace synctree
+```
+
+<br>
+
 Run the command below to create secret.
 ```
 kubectl create secret docker-registry private-repo --docker-server=repo.synctreestudio.com --docker-username=<provided-account> --docker-password=<provided-password> --namespace=synctree
